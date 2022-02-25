@@ -6,4 +6,5 @@ The goal of the project is to make accessibility changes to the code so that is 
 
 Please note to the homework reviewer - I commented out the duplicate code for this project as to show what was written in excess for the page functionality but I did not take it out completely as to leave a trace on what exactly I identified as excess.
 
-Thank you!
+![](Horiseon.gif)
+
